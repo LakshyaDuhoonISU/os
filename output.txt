@@ -1,0 +1,2 @@
+This is example of O_TRUNC: Sample file write 2 using append flag
+New string appeneded after seek end
